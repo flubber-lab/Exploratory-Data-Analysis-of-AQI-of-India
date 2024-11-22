@@ -65,6 +65,3 @@ If timestamps are available, explore how AQI and pollutants change over time.
 Correlation Analysis:
 Examine relationships between different pollutants and overall AQI.
 
-License
-
-This project is licensed under the MIT License.
