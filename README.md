@@ -1,6 +1,6 @@
 India Air Quality Index (AQI) Data Analysis
 
-This repository contains Air Quality Index (AQI) data for various locations across India, originally provided in an XML format. The data has been processed and converted into a CSV format for easy analysis. Additionally, we aim to perform exploratory data analysis (EDA) on this dataset to uncover patterns, insights, and trends about air quality in India.
+This repository contains Air Quality Index (AQI) data (2023) for various locations across India, originally provided in an XML format. The data has been processed and converted into a CSV format for easy analysis. Additionally, we aim to perform exploratory data analysis (EDA) on this dataset to uncover patterns, insights, and trends about air quality in India.
 
 Data Description
 
